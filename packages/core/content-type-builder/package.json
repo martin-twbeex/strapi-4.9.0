@@ -37,7 +37,7 @@
     "@strapi/strapi": "4.9.0",
     "@strapi/utils": "4.9.0",
     "fs-extra": "10.0.0",
-    "immer": "9.0.19",
+    "immer": "9.0.21",
     "lodash": "4.17.21",
     "match-sorter": "^4.0.2",
     "pluralize": "^8.0.0",
